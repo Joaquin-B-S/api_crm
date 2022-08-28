@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Mario",
+      "empresa": "Código con Joako",
+      "email": "correo@correo.com",
+      "telefono": "912387954",
+      "notas": "dxvdfv",
+      "id": 1
+    },
+    {
+      "nombre": "Joaquin",
+      "empresa": "Código con Juan",
+      "email": "correo@correo.com",
+      "telefono": "91236545",
+      "notas": "Cliente recomendado por otro",
+      "id": 3
+    },
+    {
+      "nombre": "Max",
+      "empresa": "Falabella",
+      "email": "asdasdasd@sadasd.com",
+      "telefono": "91236545",
+      "notas": "",
+      "id": 4
+    },
+    {
+      "nombre": "Ruth",
+      "empresa": "Peluqueria",
+      "email": "email@email.com",
+      "telefono": "978456325",
+      "notas": "Cotizando mejoras en su local",
+      "id": 5
+    }
+  ]
+}
